@@ -1,0 +1,55 @@
+body{
+    background-color: #3F99C0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: #3F99C0;
+}
+.banner-column{
+    background-color:#C0663F;
+}
+.navbar-container{
+    top: 0;
+    background-color: rgb(9, 26, 61);
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: #C0663F;
+}
+.education-container{
+    background-color: #3F99C0;
+}
+
+.circle{
+    background-color: #C0663F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: #C0663F;
+    text-align: center;
+}
+.contact-container{
+    background-color: #2CE066;
+    align-items: center;
+    
+}
+
+
+.footer{
+    background-color: #3F99C0;
+}
+.circleicon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 50px;
+    text-align: center;
+}
+.circleicon:hover{
+   background-color: gray;
+}
